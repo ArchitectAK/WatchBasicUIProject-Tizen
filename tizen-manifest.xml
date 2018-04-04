@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="3.0" package="org.freeankit.tizenwatchbasicuiproject" version="1.0.0">
+	<profile name="wearable" />
+	<ui-application appid="org.freeankit.tizenwatchbasicuiproject" exec="tizenwatchbasicuiproject" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+		<icon>tizenwatchbasicuiproject.png</icon>
+		<label>tizenwatchbasicuiproject</label>
+	</ui-application>
+</manifest>
